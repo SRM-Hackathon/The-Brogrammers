@@ -1,4 +1,3 @@
-#Your code below
 import time
 from os import system, name
 def clear(): 
